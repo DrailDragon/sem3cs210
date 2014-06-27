@@ -1,0 +1,475 @@
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  1
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  2
+Enter the entry to insert
+Inserted	1	total number of nodes is:1
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  2
+Enter the entry to insert
+Inserted	2	total number of nodes is:2
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  2
+Enter the entry to insert
+Inserted	3	total number of nodes is:3
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  2
+Enter the entry to insert
+Inserted	4	total number of nodes is:4
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  2
+Enter the entry to insert
+Inserted	5	total number of nodes is:5
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  2
+Enter the entry to insert
+Inserted	0	total number of nodes is:6
+balance factor of 2	is	0
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  2
+Enter the entry to insert
+Inserted	-1	total number of nodes is:7
+balance factor of 1	is	2
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  2
+Enter the entry to insert
+Inserted	-7	total number of nodes is:8
+balance factor of 0	is	1
+balance factor of 2	is	1
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  2
+Enter the entry to insert
+Inserted	-4	total number of nodes is:9
+balance factor of -1	is	2
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  2
+Enter the entry to insert
+Inserted	9	total number of nodes is:10
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  2
+Enter the entry to insert
+Duplicate exists so can't insert
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  3
+ya,it's an avl tree
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  4
+there are10entries:
+-7 Parent is -4
+-4 Parent is 0
+-1 Parent is -4
+0 Parent is 2
+1 Parent is 0
+2 parent is NULL
+3 Parent is 4
+4 Parent is 2
+5 Parent is 4
+9 Parent is 5
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  5
+there are10entries:
+2 parent is NULL
+0 Parent is 2
+-4 Parent is 0
+-7 Parent is -4
+-1 Parent is -4
+1 Parent is 0
+4 Parent is 2
+3 Parent is 4
+5 Parent is 4
+9 Parent is 5
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  6
+there are10entries:
+-7 Parent is -4
+-1 Parent is -4
+-4 Parent is 0
+1 Parent is 0
+0 Parent is 2
+3 Parent is 4
+9 Parent is 5
+5 Parent is 4
+4 Parent is 2
+2 parent is NULL
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  8
+Height is:4
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  10
+Enter the entry to search
+Entry found
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  11
+Enter the entry to get its successor
+Successor not found
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  12
+Enter the entry to get its predecessor
+Predecessor not found
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  7
+Enter the entry to delete
+Deleted 2
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  4
+there are10entries:
+-7 Parent is -4
+-4 Parent is 0
+-1 Parent is -4
+0 Parent is 3
+1 Parent is 0
+3 parent is NULL
+4 Parent is 5
+5 Parent is 3
+9 Parent is 5
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  5
+there are10entries:
+3 parent is NULL
+0 Parent is 3
+-4 Parent is 0
+-7 Parent is -4
+-1 Parent is -4
+1 Parent is 0
+5 Parent is 3
+4 Parent is 5
+9 Parent is 5
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  6
+there are10entries:
+-7 Parent is -4
+-1 Parent is -4
+-4 Parent is 0
+1 Parent is 0
+0 Parent is 3
+4 Parent is 5
+9 Parent is 5
+5 Parent is 3
+3 parent is NULL
+Choose the option
+1.Create new tree
+2.Insert entry
+3.Check if avltree
+4.Inorder traversal
+5.Preorder traersal
+6.Postorder traversal
+7.Delete entry
+8.Get tree_height
+9.Update entry
+10.Search entry
+11.Find inorder successor
+12.Find inorder predecessor
+Enter any other choice to exit
+You entered  12321
