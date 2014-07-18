@@ -1,0 +1,228 @@
+Enter your choice:1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+6. Get the number of components of the graph
+7. Check if bipartite
+8. Print graph matrix
+Any other choice to exit
+You entered 1
+How many vertices in your graph? 
+New graph with 0 edges and 8	nodes created
+Enter your choice:1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+6. Get the number of components of the graph
+7. Check if bipartite
+8. Print graph matrix
+Any other choice to exit
+You entered 2
+Enter first endpoint of edge
+Enter second endpoint of edge
+New edge added between0	and	1
+Enter your choice:1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+6. Get the number of components of the graph
+7. Check if bipartite
+8. Print graph matrix
+Any other choice to exit
+You entered 2
+Enter first endpoint of edge
+Enter second endpoint of edge
+New edge added between0	and	3
+Enter your choice:1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+6. Get the number of components of the graph
+7. Check if bipartite
+8. Print graph matrix
+Any other choice to exit
+You entered 2
+Enter first endpoint of edge
+Enter second endpoint of edge
+New edge added between7	and	0
+Enter your choice:1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+6. Get the number of components of the graph
+7. Check if bipartite
+8. Print graph matrix
+Any other choice to exit
+You entered 2
+Enter first endpoint of edge
+Enter second endpoint of edge
+New edge added between5	and	6
+Enter your choice:1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+6. Get the number of components of the graph
+7. Check if bipartite
+8. Print graph matrix
+Any other choice to exit
+You entered 2
+Enter first endpoint of edge
+Enter second endpoint of edge
+New edge added between7	and	6
+Enter your choice:1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+6. Get the number of components of the graph
+7. Check if bipartite
+8. Print graph matrix
+Any other choice to exit
+You entered 2
+Enter first endpoint of edge
+Enter second endpoint of edge
+New edge added between2	and	3
+Enter your choice:1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+6. Get the number of components of the graph
+7. Check if bipartite
+8. Print graph matrix
+Any other choice to exit
+You entered 2
+Enter first endpoint of edge
+Enter second endpoint of edge
+New edge added between1	and	2
+Enter your choice:1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+6. Get the number of components of the graph
+7. Check if bipartite
+8. Print graph matrix
+Any other choice to exit
+You entered 2
+Enter first endpoint of edge
+Enter second endpoint of edge
+New edge added between0	and	2
+Enter your choice:1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+6. Get the number of components of the graph
+7. Check if bipartite
+8. Print graph matrix
+Any other choice to exit
+You entered 4
+Enter source vertex for BFS
+vertex is 5 ancestor is5 depth from source vertex is 0
+vertex is 6 ancestor is5 depth from source vertex is 1
+vertex is 7 ancestor is6 depth from source vertex is 2
+vertex is 0 ancestor is7 depth from source vertex is 3
+vertex is 1 ancestor is0 depth from source vertex is 4
+vertex is 2 ancestor is0 depth from source vertex is 4
+vertex is 3 ancestor is0 depth from source vertex is 4
+
+Enter your choice:1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+6. Get the number of components of the graph
+7. Check if bipartite
+8. Print graph matrix
+Any other choice to exit
+You entered 5
+Enter source vertex for DFS
+vertex is 1 ancestor is1 depth from source vertex is 0
+vertex is 0 ancestor is1 depth from source vertex is 1
+vertex is 3 ancestor is0 depth from source vertex is 2
+vertex is 7 ancestor is0 depth from source vertex is 2
+vertex is 6 ancestor is7 depth from source vertex is 3
+vertex is 5 ancestor is6 depth from source vertex is 4
+vertex is 2 ancestor is1 depth from source vertex is 1
+
+Enter your choice:1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+6. Get the number of components of the graph
+7. Check if bipartite
+8. Print graph matrix
+Any other choice to exit
+You entered 6
+Enter the lowest valued vertex in the graph
+vertex is 0 ancestor is0 depth from source vertex is 0
+vertex is 1 ancestor is0 depth from source vertex is 1
+vertex is 2 ancestor is0 depth from source vertex is 1
+vertex is 3 ancestor is0 depth from source vertex is 1
+vertex is 7 ancestor is0 depth from source vertex is 1
+vertex is 6 ancestor is7 depth from source vertex is 2
+vertex is 5 ancestor is6 depth from source vertex is 3
+
+vertex is 4 ancestor is4 depth from source vertex is 0
+
+Enter a source vertex less than 8
+graph has  2components
+Enter your choice:1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+6. Get the number of components of the graph
+7. Check if bipartite
+8. Print graph matrix
+Any other choice to exit
+You entered 7
+Enter the lowest valued vertex in the graph
+vertex is 0 ancestor is0 depth from source vertex is 0
+vertex is 1 ancestor is0 depth from source vertex is 1
+vertex is 2 ancestor is0 depth from source vertex is 1
+vertex is 3 ancestor is0 depth from source vertex is 1
+vertex is 7 ancestor is0 depth from source vertex is 1
+vertex is 6 ancestor is7 depth from source vertex is 2
+vertex is 5 ancestor is6 depth from source vertex is 3
+
+graph is not bipartite
+Enter your choice:1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+6. Get the number of components of the graph
+7. Check if bipartite
+8. Print graph matrix
+Any other choice to exit
+You entered 8
+	0	1	2	3	4	5	6	7	
+ _  _	 _  _	 _  _	 _  _	 _  _	 _  _	 _  _	 _  _	_
+0|	0	1	1	1	0	0	0	1	
+1|	1	0	1	0	0	0	0	0	
+2|	1	1	0	1	0	0	0	0	
+3|	1	0	1	0	0	0	0	0	
+4|	0	0	0	0	0	0	0	0	
+5|	0	0	0	0	0	0	1	0	
+6|	0	0	0	0	0	1	0	1	
+7|	1	0	0	0	0	0	1	0	
+Enter your choice:1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+6. Get the number of components of the graph
+7. Check if bipartite
+8. Print graph matrix
+Any other choice to exit
+You entered 9
+Exiting

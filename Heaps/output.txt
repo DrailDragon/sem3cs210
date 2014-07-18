@@ -1,0 +1,205 @@
+
+Please enter the no. of elements & integer elements of the array:
+choose the option
+1.fill array randomly
+2.build_maxheap
+3.Get maximum
+4.Extract maximum
+5.Heap sort
+6.Print heap
+Enter any other key to exit
+You entered	1
+Randomly inserted into the array(proheap)
+choose the option
+1.fill array randomly
+2.build_maxheap
+3.Get maximum
+4.Extract maximum
+5.Heap sort
+6.Print heap
+Enter any other key to exit
+You entered	6
+Element	1	left	2	right	32
+Element	2	left	23	right	43
+Element	32	left	345	right	35
+Element	23	left	446	right	456
+Element	43	left	456	right	45
+Element	345	left	5	right	6547
+Element	35	left	76	right	6
+Element	446	left	765	right	756
+Element	456	left	756	right	12
+Element	456	left	3	right	-1
+Element	45	left	-1	right	-1
+Element	5	left	-1	right	-1
+Element	6547	left	-1	right	-1
+Element	76	left	-1	right	-1
+Element	6	left	-1	right	-1
+Element	765	left	-1	right	-1
+Element	756	left	-1	right	-1
+Element	756	left	-1	right	-1
+Element	12	left	-1	right	-1
+Element	3	left	-1	right	-1
+choose the option
+1.fill array randomly
+2.build_maxheap
+3.Get maximum
+4.Extract maximum
+5.Heap sort
+6.Print heap
+Enter any other key to exit
+You entered	2
+Max heap built
+choose the option
+1.fill array randomly
+2.build_maxheap
+3.Get maximum
+4.Extract maximum
+5.Heap sort
+6.Print heap
+Enter any other key to exit
+You entered	6
+Element	6547	left	765	right	345
+Element	765	left	756	right	456
+Element	345	left	32	right	76
+Element	756	left	446	right	756
+Element	456	left	43	right	45
+Element	32	left	5	right	1
+Element	76	left	35	right	6
+Element	446	left	2	right	23
+Element	756	left	456	right	12
+Element	43	left	3	right	-1
+Element	45	left	-1	right	-1
+Element	5	left	-1	right	-1
+Element	1	left	-1	right	-1
+Element	35	left	-1	right	-1
+Element	6	left	-1	right	-1
+Element	2	left	-1	right	-1
+Element	23	left	-1	right	-1
+Element	456	left	-1	right	-1
+Element	12	left	-1	right	-1
+Element	3	left	-1	right	-1
+choose the option
+1.fill array randomly
+2.build_maxheap
+3.Get maximum
+4.Extract maximum
+5.Heap sort
+6.Print heap
+Enter any other key to exit
+You entered	3
+max is  6547
+choose the option
+1.fill array randomly
+2.build_maxheap
+3.Get maximum
+4.Extract maximum
+5.Heap sort
+6.Print heap
+Enter any other key to exit
+You entered	6
+Element	6547	left	765	right	345
+Element	765	left	756	right	456
+Element	345	left	32	right	76
+Element	756	left	446	right	756
+Element	456	left	43	right	45
+Element	32	left	5	right	1
+Element	76	left	35	right	6
+Element	446	left	2	right	23
+Element	756	left	456	right	12
+Element	43	left	3	right	-1
+Element	45	left	-1	right	-1
+Element	5	left	-1	right	-1
+Element	1	left	-1	right	-1
+Element	35	left	-1	right	-1
+Element	6	left	-1	right	-1
+Element	2	left	-1	right	-1
+Element	23	left	-1	right	-1
+Element	456	left	-1	right	-1
+Element	12	left	-1	right	-1
+Element	3	left	-1	right	-1
+choose the option
+1.fill array randomly
+2.build_maxheap
+3.Get maximum
+4.Extract maximum
+5.Heap sort
+6.Print heap
+Enter any other key to exit
+You entered	4
+max extracted6547
+choose the option
+1.fill array randomly
+2.build_maxheap
+3.Get maximum
+4.Extract maximum
+5.Heap sort
+6.Print heap
+Enter any other key to exit
+You entered	6
+Element	765	left	756	right	345
+Element	756	left	756	right	456
+Element	345	left	32	right	76
+Element	756	left	446	right	456
+Element	456	left	43	right	45
+Element	32	left	5	right	1
+Element	76	left	35	right	6
+Element	446	left	2	right	23
+Element	456	left	3	right	12
+Element	43	left	-1	right	-1
+Element	45	left	-1	right	-1
+Element	5	left	-1	right	-1
+Element	1	left	-1	right	-1
+Element	35	left	-1	right	-1
+Element	6	left	-1	right	-1
+Element	2	left	-1	right	-1
+Element	23	left	-1	right	-1
+Element	3	left	-1	right	-1
+Element	12	left	-1	right	-1
+choose the option
+1.fill array randomly
+2.build_maxheap
+3.Get maximum
+4.Extract maximum
+5.Heap sort
+6.Print heap
+Enter any other key to exit
+You entered	5
+Sorted array is 
+ 1  2  3  5  6  12  23  32  35  43  45  76  345  446  456  456  756  756  765 choose the option
+1.fill array randomly
+2.build_maxheap
+3.Get maximum
+4.Extract maximum
+5.Heap sort
+6.Print heap
+Enter any other key to exit
+You entered	6
+Element	1	left	2	right	3
+Element	2	left	5	right	6
+Element	3	left	12	right	23
+Element	5	left	32	right	35
+Element	6	left	43	right	45
+Element	12	left	76	right	345
+Element	23	left	446	right	456
+Element	32	left	456	right	756
+Element	35	left	756	right	765
+Element	43	left	-1	right	-1
+Element	45	left	-1	right	-1
+Element	76	left	-1	right	-1
+Element	345	left	-1	right	-1
+Element	446	left	-1	right	-1
+Element	456	left	-1	right	-1
+Element	456	left	-1	right	-1
+Element	756	left	-1	right	-1
+Element	756	left	-1	right	-1
+Element	765	left	-1	right	-1
+choose the option
+1.fill array randomly
+2.build_maxheap
+3.Get maximum
+4.Extract maximum
+5.Heap sort
+6.Print heap
+Enter any other key to exit
+You entered	213213
+Exiting
